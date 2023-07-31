@@ -8,3 +8,6 @@ Create 3 tasks:
 
 ## FreeRTOS_Queue
 Create a queue to communicate vTask1 with vTask2
+
+## FreeRTOS_Mutex
+Locking mecanism to prevent more than one task to access a section of code.
